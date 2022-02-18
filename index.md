@@ -44,7 +44,7 @@ See the course [syllabus](files/syllabus.pdf) for further details.
 
 | Lectures      | Monday/Wednesday 10:00-12:00 |
 | Lab  			| Wednesday 11:00-12:00 |
-| Lecturer      | Ümit Atlamaz [webpage][umitweb] |
+| Instructor      | Ümit Atlamaz [webpage][umitweb] |
 | Office hours  | Monday 14:00-15:00|
 | TAs        | Utku Türk [webpage][utkuweb] |
 |               | Karahan Şahin  |
