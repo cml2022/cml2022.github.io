@@ -1,0 +1,18 @@
+# Site settings
+title: Computational Methods in Linguistics
+subtitle: > # ignore newlines until "description:"
+    Course web page, 2022 spring -
+    mainly for practice item sharing
+    <a href="http://linguistics.boun.edu.tr/">Ling. Dept. @ Bogazici Unv.</a>
+description: > # ignore newlines until "baseurl:"
+    This is the course web page for 
+    Computational Methods in Linguistics
+    taught in the linguistic department, Bogazici University.
+baseurl: ""
+url: "https://cml2022.github.io"
+github_username: cml2022
+encoding: utf-8
+future: true
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,79 @@
+- week: "00"
+  dates:
+    Feb 23: "Intro & Syllabus"
+- week: "01"
+  dates:
+    Feb 28: "Marr's Three levels"
+    Mar 02: 
+      topic: Marr's Three levels
+      reading: Marr 1982
+- week: "02"
+  dates:
+    Mar 07:
+      topic: Formal Languages
+    Mar 09: 
+      topic: Regular Expressions
+- week: "03"
+  dates:
+    Mar 14:
+      topic: Regular Expressions (cont.)
+    Mar 16:
+      topic: NLP Pipelines & Text pre-processing
+- week: "04"
+  dates:
+    Mar 21:
+      topic: Edit Distance
+    Mar 23:
+      topic: Context Free Grammar (Generation)
+- week: "05"
+  dates:
+    Mar 28:
+      topic: Context Free Grammar (Parsing)
+    Mar 30:
+      topic: N-grams
+- week: "06"
+  dates:
+    Apr 04:
+      topic: N-grams (cont.)
+    Apr 06:
+      topic: N-grams (cont.)
+- week: "07"
+  dates:
+    Apr 11:
+      topic: Finite State Automata
+    Apr 13:
+      topic: Finite State Automata (cont.)
+- week: "08"
+  dates:
+    Apr 18:
+      topic: Finite State Transducers
+    Apr 20:
+      topic: Finite State Transducers (cont.)
+- week: "09"
+  dates:
+    Apr 25:
+      topic: BOW, TF-IDF
+    Apr 27:
+      topic: BOW, TF-IDF (cont.)
+- week: "10"
+  dates:
+    May 02:
+      topic: Naive Bayes & Document Classification
+    May 04:
+      topic: Naive Bayes & Document Classification (cont.)
+- week: "11"
+  dates:
+    May 09: "Spring break"
+    May 11: "Spring break"
+- week: "12"
+  dates:
+    May 16:
+      topic: Naive Bayes & Document Classification (cont.)
+    May 18:
+      topic: Naive Bayes & Document Classification (cont.)
+- week: "13"
+  dates:
+    May 23:
+      topic: Project Presentations
+    May 25:
+      topic: Project Presentations
