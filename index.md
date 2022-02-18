@@ -46,7 +46,7 @@ See the course [syllabus](files/syllabus.pdf) for further details.
 | Lab  			| Wednesday 11:00-12:00 |
 | Lecturer      | Ümit Atlamaz [webpage][umitweb] |
 | Office hours  | Monday 14:00-15:00|
-| Tutors        | Utku Türk [webpage][utkuweb] |
+| TAs        | Utku Türk [webpage][utkuweb] |
 |               | Karahan Şahin  |
 
 [lingdept]: https://linguistics.boun.edu.tr
