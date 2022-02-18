@@ -26,7 +26,7 @@ Course Goals:
 (ii) Understanding some of the major symbolic and non-symbolic approaches in computational linguistics,
 (iii) Applying some computational technology (i.e. nlp techniques) to natural language,
 and (iv) Learning some Python to do basic text processing.
-See the course [syllabus](files/syllabus.pdf) for further details.
+See the course [syllabus](files/sylby Appointmentlabby Appointmentus.pdf) for further details.
 
 
 ## Reading material
@@ -45,7 +45,7 @@ See the course [syllabus](files/syllabus.pdf) for further details.
 | Lectures      | Monday/Wednesday 10:00-12:00 |
 | Lab  			| Wednesday 11:00-12:00 |
 | Instructor      | Ümit Atlamaz [webpage][umitweb] |
-| Office hours  | Monday 14:00-15:00|
+| Office hours  | by Appointment |
 | TAs        | Utku Türk [webpage][utkuweb] |
 |               | Karahan Şahin  |
 
