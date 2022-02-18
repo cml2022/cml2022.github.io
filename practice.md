@@ -46,7 +46,7 @@ There won't be a separate session with a detailed introduction to Python basics.
 
 If you already have some experience with Python but would like to have some notes at hand to use for reference, you can check this website [Python cheatsheet][cheatsheet].
 
-If you still have some questions, do not hesitate to contact Utku or Karahan (e-mail subject = "SNLP: Python intro"). You will get as much help as you need. Don't worry about it!
+If you still have some questions, do not hesitate to contact Utku or Karahan (e-mail subject = "CML: Python intro"). You will get as much help as you need. Don't worry about it!
 
 
 [p1]: https://www.google.com
