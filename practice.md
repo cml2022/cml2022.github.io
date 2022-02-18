@@ -37,7 +37,7 @@ We will be using, all of which do not require additional software installation o
 * [pandas](https://pandas.pydata.org/index.html) (for using data frames);
 * [seaborn](https://seaborn.pydata.org/installing.html) and [matplotlib](https://matplotlib.org/users/installing.html) (for visualization of data);
 
-Numpy Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][lab0numpy]
+Numpy Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cml2022/cml2022.github.io/blob/master/practice/0-numpy.ipynb)
 
 
 # Intro to Python
@@ -58,6 +58,5 @@ If you still have some questions, do not hesitate to contact Utku or Karahan (e-
 [p7]: https://www.google.com
 [p8]: https://www.google.com
 [p9]: https://www.google.com
-[lab0notebook]: https://colab.research.google.com/github/BounCompLing/cml2022/blob/master/practice/0-numpy.ipynb
 [cheatsheet]: https://www.pythoncheatsheet.org/
 
