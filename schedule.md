@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Schedule & Material 
+title: Schedule
 ---
 
 Links to the course material will be provided in the schedule below
