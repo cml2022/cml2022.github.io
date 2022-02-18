@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assignments
+title: Assgn.
 ---
 
 Assignments will be mainly posted on Moodle. You can also find a copy here.
