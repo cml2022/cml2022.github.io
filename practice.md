@@ -8,6 +8,7 @@ Practice questions will be posted here with a colab link and markdown versions.
 
 # Practice
 
+- [Practice 0](https://cml2022.github.io/practice/0-numpy): Numpy
 - [Practice 1][p1]: TBA
 - [Practice 2][p2]: TBA
 - [Practice 3][p3]: TBA
@@ -32,11 +33,12 @@ By the end of the session you will be able to:
 * visualize your data.
 
 We will be using, all of which do not require additional software installation on your pc/mac.
-* Python 3.7;
+* Python 3.9;
 * [Numpy](https://www.numpy.org/) (for dealing with numerical values);
 * [pandas](https://pandas.pydata.org/index.html) (for using data frames);
 * [seaborn](https://seaborn.pydata.org/installing.html) and [matplotlib](https://matplotlib.org/users/installing.html) (for visualization of data);
 
+First tutorial will be on Numpy. 
 Numpy Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cml2022/cml2022.github.io/blob/master/practice/0-numpy.ipynb)
 
 
