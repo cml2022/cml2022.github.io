@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Practice
+title: Pract.
 ---
 
 Practice questions will be posted here with a colab link and markdown versions.
