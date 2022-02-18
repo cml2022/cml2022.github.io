@@ -42,8 +42,8 @@ See the course [syllabus](files/syllabus.pdf) for further details.
 ## Practical information
 
 
-| Lectures      | Monday/Wednesday 12:15-13:45, room 0.02 |
-| Lab  			| Wednesday 10:15-11:45, room 0.02 |
+| Lectures      | Monday/Wednesday 10:00-12:00 |
+| Lab  			| Wednesday 11:00-12:00 |
 | Lecturer      | Ümit Atlamaz [webpage][umitweb] |
 | Office hours  | Monday 14:00-15:00|
 | Tutors        | Utku Türk [webpage][utkuweb] |
