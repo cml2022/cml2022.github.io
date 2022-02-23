@@ -32,14 +32,7 @@ By the end of the session you will be able to:
 * apply exploratory data analysis;
 * visualize your data.
 
-We will be using, all of which do not require additional software installation on your pc/mac.
-* Python 3.9;
-* [Numpy](https://www.numpy.org/) (for dealing with numerical values);
-* [pandas](https://pandas.pydata.org/index.html) (for using data frames);
-* [seaborn](https://seaborn.pydata.org/installing.html) and [matplotlib](https://matplotlib.org/users/installing.html) (for visualization of data);
-
-First tutorial will be on Numpy. 
-Numpy Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cml2022/cml2022.github.io/blob/master/practice/0-numpy.ipynb)
+We will be using, all of which do not require additional software installation on your pc/mac. First tutorial will be on Introduction to Python Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CQjRJcQeauaUaZ3kAI-t0ScSqbuR_Cse?usp=sharing)
 
 
 # Intro to Python
