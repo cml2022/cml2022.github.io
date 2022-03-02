@@ -21,7 +21,7 @@ Practice questions will be posted here with a colab link and markdown versions.
 
 # Tutorials
 
-#### Lab session 00: Intro to Python and data processing
+#### Lab session 01: Intro to Python and data processing
 
 The goal of the first lab session is to introduce the tools which you can use for basic data processing in Python.
 We will use [Google Colab notebooks](https://colab.to/), which allow you to work in a browser, mixing code and description. 
@@ -34,6 +34,17 @@ By the end of the session you will be able to:
 
 We will be using, all of which do not require additional software installation on your pc/mac. First tutorial will be on Introduction to Python Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CQjRJcQeauaUaZ3kAI-t0ScSqbuR_Cse?usp=sharing)
 
+#### Lab session 02: Intro to Python (Contd.)
+
+The goal of the second lab session is to introduce the  
+
+By the end of the session you will be able to:
+* working knowledge of
+    * strings;
+    * lists;
+    * dictionaries;
+
+Second tutorial will be on Introduction to Python (Contd.) Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17jn_EnI9uHbIB_kinkbweqOfZbRk61dj?usp=sharing)
 
 # Intro to Python
 
