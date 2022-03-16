@@ -46,6 +46,16 @@ By the end of the session you will be able to:
 
 Second tutorial will be on Introduction to Python (Contd.) Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17jn_EnI9uHbIB_kinkbweqOfZbRk61dj?usp=sharing)
 
+#### Lab session 03: Regular Expressions and For Loops
+
+The goal of the third lab session is to introduce the  
+
+By the end of the session you will be able to:
+* working knowledge of
+    * regular expressions;
+    * for loops;
+
+Third tutorial will be on Regular Expressions and For Loops Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jf_rBq1oFzZDfl2C02RfFImQ7Iw3pL10?usp=sharing)
 # Intro to Python
 
 There won't be a separate session with a detailed introduction to Python basics. If you have little or no experience in Python, you could check a free [Python course](https://www.kaggle.com/learn/python) from Kaggle. It has a great combination of useful theoretical materials and practical tasks. It should be enough to get used to Python.
