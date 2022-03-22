@@ -21,7 +21,7 @@ Practice questions will be posted here with a colab link and markdown versions.
 
 # Tutorials
 
-#### Lab session 01: Intro to Python and data processing
+## Lab session 01: Intro to Python and data processing
 
 The goal of the first lab session is to introduce the tools which you can use for basic data processing in Python.
 We will use [Google Colab notebooks](https://colab.to/), which allow you to work in a browser, mixing code and description. 
@@ -34,7 +34,7 @@ By the end of the session you will be able to:
 
 We will be using, all of which do not require additional software installation on your pc/mac. First tutorial will be on Introduction to Python Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CQjRJcQeauaUaZ3kAI-t0ScSqbuR_Cse?usp=sharing)
 
-#### Lab session 02: Intro to Python (Contd.)
+## Lab session 02: Intro to Python (Contd.)
 
 The goal of the second lab session is to introduce the  
 
@@ -42,11 +42,10 @@ By the end of the session you will be able to:
 * working knowledge of
     * strings;
     * lists;
-    * dictionaries;
 
 Second tutorial will be on Introduction to Python (Contd.) Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17jn_EnI9uHbIB_kinkbweqOfZbRk61dj?usp=sharing)
 
-#### Lab session 03: Regular Expressions and For Loops
+## Lab session 03: Regular Expressions and For Loops
 
 The goal of the third lab session is to introduce the  
 
@@ -56,6 +55,19 @@ By the end of the session you will be able to:
     * for loops;
 
 Third tutorial will be on Regular Expressions and For Loops Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jf_rBq1oFzZDfl2C02RfFImQ7Iw3pL10?usp=sharing)
+
+## Lab session 04: Dictionaries, Functions and Control Statements
+
+The goal of the fourth lab session is to introduce the  
+
+By the end of the session you will be able to:
+* working knowledge of
+    * dictionaries;
+    * functions;
+    * for loops;
+
+Fourth tutorial will be on Dictionaries, Functions and Control Statements Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dpPQNIFle-HK46HdmcDSyl5Y7Zu7YGjs?usp=sharing)
+
 # Intro to Python
 
 There won't be a separate session with a detailed introduction to Python basics. If you have little or no experience in Python, you could check a free [Python course](https://www.kaggle.com/learn/python) from Kaggle. It has a great combination of useful theoretical materials and practical tasks. It should be enough to get used to Python.
