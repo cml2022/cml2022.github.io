@@ -68,6 +68,17 @@ By the end of the session you will be able to:
 
 Fourth tutorial will be on Dictionaries, Functions and Control Statements Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dpPQNIFle-HK46HdmcDSyl5Y7Zu7YGjs?usp=sharing)
 
+## Lab session 05: IO Stream and Finite State Transducers
+
+The goal of the fourth lab session is to introduce the  
+
+By the end of the session you will be able to:
+* working knowledge of
+    * Reading and Writing on Documents
+    * HFST Framework
+
+Fourth tutorial will be on Dictionaries, Functions and Control Statements Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1thvNTBfNqkSpGuU-ukrcUPb5x2frEQ5I?usp=sharing)
+
 # Intro to Python
 
 There won't be a separate session with a detailed introduction to Python basics. If you have little or no experience in Python, you could check a free [Python course](https://www.kaggle.com/learn/python) from Kaggle. It has a great combination of useful theoretical materials and practical tasks. It should be enough to get used to Python.
